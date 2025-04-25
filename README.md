@@ -3,7 +3,7 @@
 
 **Wiki-Bot** is a bot for [Discord](https://discord.com/) with the purpose to easily link and search [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) sites like [Wikipedia](https://www.wikipedia.org/) and [Fandom](https://www.fandom.com/) wikis. **Wiki-Bot** shows short descriptions and additional info about pages and is able to resolve redirects and follow interwiki links.
 
-**Wiki-Bot** has translations for Bengali, German, English, Spanish, French, Hindi, Korean, Polish, Brazilian Portuguese, Russian, Swedish, Turkish, Simplified Chinese and Traditional Chinese.
+**Wiki-Bot** has translations for Bengali, German, English, Spanish, French, Hindi, Korean, Polish, Brazilian Portuguese, Russian, Swedish, Turkish, Vietnamese, Simplified Chinese and Traditional Chinese.
 
 [Use this link to invite **Wiki-Bot** to your Discord server.](https://discord.com/oauth2/authorize?client_id=461189216198590464&permissions=939904064&scope=bot+applications.commands)
 
